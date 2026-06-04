@@ -29,7 +29,7 @@ function AdminDashboard() {
   return (
     <>
       <PageHeader
-        title="Welcome back, Arthur"
+        title="Welcome back, Artur"
         description="Here's how your telemarketing team is performing this week."
         action={
           <div className="flex gap-2">
